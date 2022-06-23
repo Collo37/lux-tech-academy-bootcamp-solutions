@@ -16,4 +16,4 @@ function compareTriplets(a, b) {
 
 };
 
-console.log(compareTriplets([10, 11, 48], [20, 11, 47]));
+// console.log(compareTriplets([10, 11, 48], [20, 11, 47]));

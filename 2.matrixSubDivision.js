@@ -81,5 +81,5 @@ const findSmallestSubmatrixValue  = (threeDArray) => {
 let matrix = [[1, 5, 7], [7, 3, 5], [2, 6, 9]];
 let threeDMatrix = subdivideMatrix(matrix);
 
-console.log(findLargestSubmatrixValue(threeDMatrix));
-console.log(findSmallestSubmatrixValue(threeDMatrix));
+// console.log(findLargestSubmatrixValue(threeDMatrix));
+// console.log(findSmallestSubmatrixValue(threeDMatrix));

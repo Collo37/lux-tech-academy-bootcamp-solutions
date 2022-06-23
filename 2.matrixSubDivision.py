@@ -49,6 +49,6 @@ def find_smallest_submatrix_value(three_D_array):
 matrix = [[1, 5, 7], [7, 3, 5], [2, 6, 9]]
 submatrices = subdivide_matrix(matrix)
 
-print(subdivide_matrix(matrix))
-print(find_largest_submatrix_value(submatrices))
-print(find_smallest_submatrix_value(submatrices))
+# print(subdivide_matrix(matrix))
+# print(find_largest_submatrix_value(submatrices))
+# print(find_smallest_submatrix_value(submatrices))

@@ -13,4 +13,4 @@ def compare_triplets(a, b):
     return output_array
 
 
-print(compare_triplets([10, 11, 48], [20, 11, 47]))
+# print(compare_triplets([10, 11, 48], [20, 11, 47]))
